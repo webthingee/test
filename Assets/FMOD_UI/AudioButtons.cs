@@ -12,7 +12,6 @@ public class AudioButtons : MonoBehaviour
 
     private void ToggleActive()
     {
-        Debug.Log("b");
         GetComponentInParent<AudioMaster>().ToggleActive();
     }
 }
