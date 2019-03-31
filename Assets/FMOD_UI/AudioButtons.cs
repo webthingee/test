@@ -3,13 +3,16 @@ using UnityEngine.UI;
 
 public class AudioButtons : MonoBehaviour
 {
-    private void Start()
+    public Button closeButton;
+    
+    private void Awake()
     {
-        GetComponent<Button>().onClick.AddListener(ToggleActive);
+        closeButton.GetComponent<Button>().onClick.AddListener(ToggleActive);
     }
 
     private void ToggleActive()
     {
+        Debug.Log("b");
         GetComponentInParent<AudioMaster>().ToggleActive();
     }
 }

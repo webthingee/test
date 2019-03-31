@@ -189,11 +189,6 @@ PrefabInstance:
       propertyPath: testSFX
       value: event:/TestSFX
       objectReference: {fileID: 0}
-    - target: {fileID: 8864891925869785286, guid: 7577e104992924f889830d7569ae94fb,
-        type: 3}
-      propertyPath: useThisUI
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4644704254063265486, guid: 7577e104992924f889830d7569ae94fb,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -314,12 +309,6 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8089513458454370289, guid: 7577e104992924f889830d7569ae94fb,
-        type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
-        type: 2}
     - target: {fileID: 8089513458454370289, guid: 7577e104992924f889830d7569ae94fb,
         type: 3}
       propertyPath: m_havePropertiesChanged
@@ -342,12 +331,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5933462836808285788, guid: 7577e104992924f889830d7569ae94fb,
         type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
-        type: 2}
-    - target: {fileID: 5933462836808285788, guid: 7577e104992924f889830d7569ae94fb,
-        type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
@@ -366,12 +349,6 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 508623990412319971, guid: 7577e104992924f889830d7569ae94fb,
-        type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
-        type: 2}
     - target: {fileID: 508623990412319971, guid: 7577e104992924f889830d7569ae94fb,
         type: 3}
       propertyPath: m_havePropertiesChanged
@@ -394,12 +371,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2971850549849695297, guid: 7577e104992924f889830d7569ae94fb,
         type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
-        type: 2}
-    - target: {fileID: 2971850549849695297, guid: 7577e104992924f889830d7569ae94fb,
-        type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
@@ -408,12 +379,6 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3451623407678913659, guid: 7577e104992924f889830d7569ae94fb,
-        type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
-        type: 2}
     - target: {fileID: 3451623407678913659, guid: 7577e104992924f889830d7569ae94fb,
         type: 3}
       propertyPath: m_havePropertiesChanged

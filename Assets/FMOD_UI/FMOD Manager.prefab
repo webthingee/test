@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 276015045655770639}
   - component: {fileID: 8864891925869785286}
   m_Layer: 0
-  m_Name: Audio Manager
+  m_Name: FMOD Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -68,6 +68,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09ba48bbefcb349b3a986372e6227a28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  useThisUI: 1
   testSFX: 
   masterVolume: 1
   musicVolume: 1
@@ -223,6 +224,12 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1472307949448708085, guid: bd123e4ed9ac243e2bfec12c89e55c92,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
+        type: 2}
     - target: {fileID: 2618918018425188042, guid: bd123e4ed9ac243e2bfec12c89e55c92,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -263,6 +270,12 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5461644607226532991, guid: bd123e4ed9ac243e2bfec12c89e55c92,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
+        type: 2}
     - target: {fileID: 2618918018579938200, guid: bd123e4ed9ac243e2bfec12c89e55c92,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -343,6 +356,12 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3925710495742809688, guid: bd123e4ed9ac243e2bfec12c89e55c92,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
+        type: 2}
     - target: {fileID: 914261438884272896, guid: bd123e4ed9ac243e2bfec12c89e55c92,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -363,6 +382,12 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5553830812125924421, guid: bd123e4ed9ac243e2bfec12c89e55c92,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
+        type: 2}
     - target: {fileID: 2486206243884721058, guid: bd123e4ed9ac243e2bfec12c89e55c92,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -383,6 +408,12 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7143825245088068839, guid: bd123e4ed9ac243e2bfec12c89e55c92,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd123e4ed9ac243e2bfec12c89e55c92, type: 3}
 --- !u!224 &8089513457929255418 stripped
