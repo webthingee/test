@@ -189,6 +189,11 @@ PrefabInstance:
       propertyPath: testSFX
       value: event:/TestSFX
       objectReference: {fileID: 0}
+    - target: {fileID: 8864891925869785286, guid: 7577e104992924f889830d7569ae94fb,
+        type: 3}
+      propertyPath: useThisUI
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4644704254063265486, guid: 7577e104992924f889830d7569ae94fb,
         type: 3}
       propertyPath: m_AnchorMin.y

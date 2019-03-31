@@ -44,10 +44,7 @@ public class AudioMaster : MonoBehaviour
             useThisUI = false;
             Debug.LogWarning("There is no UI in the hierarchy.");
         };
-    }
 
-    private void Start()
-    {
         // Establish the buses to be loaded and managed
         masterBus = RuntimeManager.GetBus("bus:/Main");
         musicBus = RuntimeManager.GetBus("bus:/Main/Music");
