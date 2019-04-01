@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{d327c7dc-2ef5-49e6-8bb1-55ea25f62a34}">
+        <property name="name">
+            <value>UnsureBass</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0576aa5c-ec5b-44cf-8814-9a64a84a932a}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{29911c5a-a2de-44f4-a0d2-c7c66caec739}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{29911c5a-a2de-44f4-a0d2-c7c66caec739}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

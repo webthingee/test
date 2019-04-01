@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{9dba868b-cb64-405a-b66b-996b8de9d83e}">
+        <property name="assetPath">
+            <value>150_C_IceyArp_01_649.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>12.800000000000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{7cfd3bd5-f34b-4a15-8953-0afa94b623f0}</destination>
+        </relationship>
+    </object>
+</objects>

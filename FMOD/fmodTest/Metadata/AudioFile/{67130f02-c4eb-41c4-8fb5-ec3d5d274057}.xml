@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{67130f02-c4eb-41c4-8fb5-ec3d5d274057}">
+        <property name="assetPath">
+            <value>150_F_UnsureBass_01_649.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6.4000000000000004</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{7cfd3bd5-f34b-4a15-8953-0afa94b623f0}</destination>
+        </relationship>
+    </object>
+</objects>
